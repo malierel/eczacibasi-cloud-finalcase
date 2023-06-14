@@ -32,3 +32,7 @@ Root diski kullanim (doluluk) orani %90’i gecitiğinde uyarı veren Shell Scri
 5-Sanallaştırma yazılımından çıkıp web tarayıcınızın arama kısmına aşağıdaki örnekteki gibi **_kaydettiğinizip:5000_** yazıp enterlayın.
 
      192.168.1.103:5000
+
+Docker image dosyasına aşağıdaki linkten erişebilirsiniz.
+
+https://hub.docker.com/repository/docker/malierel/pat_flask
